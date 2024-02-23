@@ -2,28 +2,36 @@
 "Completed Graphics List"
 
 -----------------------------------------------
--Parts04
+-Parts04 
 -----------------------------------------------
--MyChar.png
+-MyChar.png ("Complete")
 -NpcComp.png
 -NpcSor.png
 -NpcMons.png
 -NpcSym.png
 -----------------------------------------------
--PrtIron.png
--PrtDamp.png
--PrtCave.png
+-PrtIron.png ("Complete")
+-PrtDamp.png 
+-PrtCave.png ("Complete")
 -PrtCent.png
 -PrtRoom.png
 -PrtSand.png
 -PrtRiver.png
 -PrtFrog.png
--PrtBush.png
+-PrtBush.png 
 -PrtOside.png
 -PrtWhite.png
 -----------------------------------------------
 -Bullet.png
 -Caret.png
+-----------------------------------------------
+-Item.png
+-----------------------------------------------
+-Face.png
+-----------------------------------------------
+-PrtPhoto.png
+-----------------------------------------------
+-BkCroud.png
 -----------------------------------------------
 
 
